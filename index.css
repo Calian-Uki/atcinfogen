@@ -2,7 +2,7 @@
 {
     height: 200px;
     position: relative;
-    border: 3px solid blue;
+    border: 3px solid #2069e0;
 }
 .center
 {
@@ -16,11 +16,20 @@
 
 body
 {
-    background-color: gray;
+    background-color: #121212;
 }
 h1
 {
     font-size: 50px;
     font-family: monospace;
     text-align: center;
+    color: #2069e0;
+}
+button
+{
+  background-color: #042baa;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
 }

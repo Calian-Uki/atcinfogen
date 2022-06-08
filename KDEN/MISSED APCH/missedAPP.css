@@ -1,0 +1,32 @@
+body
+{
+    background-color: #121212;
+    font-family: monospace;
+    color: #2069e0;
+}
+table, th, td
+{
+    border-width: 1px;
+    border-style: dotted;
+    border-collapse: collapse;
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+}
+
+.exclude
+{
+    color: red;
+    font-size: 20px;
+    font-weight: 900;
+}
+button
+{
+  background-color: #042baa;
+  color: white;
+  padding: 5px;
+  font-size: 16px;
+  border: none;
+}
