@@ -1,5 +1,26 @@
+.container
+{
+    height: 200px;
+    position: relative;
+    border: 3px solid blue;
+}
+.center
+{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+body
+{
+    background-color: gray;
+}
 h1
 {
+    font-size: 50px;
     font-family: monospace;
-    align-self: center;
+    text-align: center;
 }
