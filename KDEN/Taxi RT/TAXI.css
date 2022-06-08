@@ -6,7 +6,7 @@ body
 }
 table, th, td
 {
-    border-width: 1px;
+    border-width: 2px;
     border-style: dotted;
     border-collapse: collapse;
     text-align: center;
