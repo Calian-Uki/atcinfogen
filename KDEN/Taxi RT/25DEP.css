@@ -1,0 +1,12 @@
+body
+{
+    background-color: grey;
+    font-family: monospace;
+}
+table, th, td
+{
+    border-width: 1px;
+    border-style: dotted;
+    border-collapse: collapse;
+    text-align: center;
+}
