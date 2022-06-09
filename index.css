@@ -4,6 +4,11 @@
     position: relative;
     border: 3px solid #2069e0;
 }
+.containerCL
+{
+    height: 75px;
+    position: relative;
+}
 .center
 {
     margin: 0;

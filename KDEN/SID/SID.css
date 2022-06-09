@@ -2,7 +2,7 @@ body
 {
     background-color: #121212;
     font-family: monospace;
-    color: #2069e0;
+    color: #00b7ff;
 }
 table, th, td
 {
@@ -10,7 +10,7 @@ table, th, td
     border-style: dotted;
     border-collapse: collapse;
     text-align: center;
-    border-color: #2069e0;
+    border-color: #2069E0;
 }
 h1
 {
