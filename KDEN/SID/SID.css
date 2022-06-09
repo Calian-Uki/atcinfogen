@@ -4,13 +4,13 @@ body
     font-family: monospace;
     color: #00b7ff;
 }
-table, tr, th, td
+table, th, td
 {
     border-width: 2px;
     border-style: solid;
     border-collapse: collapse;
-    text-align: center;
     border-color: #2069E0;
+    text-align: center;
 }
 h1, h2
 {
