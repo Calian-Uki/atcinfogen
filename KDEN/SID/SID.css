@@ -4,7 +4,7 @@ body
     font-family: monospace;
     color: #00b7ff;
 }
-table, th, td
+table, tr, th, td
 {
     border-width: 2px;
     border-style: solid;
