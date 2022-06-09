@@ -7,7 +7,7 @@ body
 table, th, td
 {
     border-width: 2px;
-    border-style: dotted;
+    border-style: solid;
     border-collapse: collapse;
     border-color: #2069E0;
     text-align: center;
